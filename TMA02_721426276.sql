@@ -307,7 +307,7 @@ FROM Medication m
 WHERE Remaining_Days(m.exp_date)  <=30;
 
 
-/*Q5 was written in the mysql commend line and it is included in the report*/
+
 
 
 
